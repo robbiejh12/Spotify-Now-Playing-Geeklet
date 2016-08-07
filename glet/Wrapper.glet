@@ -11,6 +11,8 @@
 	<string>osascript ~/Documents/Geektool/Spotify/SpotifyNowPlaying.scpt -id</string>
 	<key>DisplayID</key>
 	<integer>69730752</integer>
+	<key>DoesOverrideText</key>
+	<true/>
 	<key>DropShadow</key>
 	<false/>
 	<key>FailureImage</key>
@@ -114,6 +116,8 @@
 	<string>org.tynsoe.geeklet.shell</string>
 	<key>Name</key>
 	<string>Wrapper</string>
+	<key>OverrideText</key>
+	<string> </string>
 	<key>RefreshInterval</key>
 	<integer>1</integer>
 	<key>SetLocale</key>
