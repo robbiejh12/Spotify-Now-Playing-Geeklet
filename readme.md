@@ -3,7 +3,7 @@
 ##Install
 1. Download zip from the releases tab.
 2. Unzip to your chosen install location.
-3. The files are set up to use ~/Documents/Geektool/Spotify/ ('~' means your home directory). If you installed somewhere else:
+3. The files are set up to use `~`/Documents/Geektool/Spotify/ ('`~`' means your home directory). If you installed somewhere else:
   a. Open `SpotifyNowPlaying.scpt` in Script Editor.
   b. Put your install location in line 10, in full, with a / at the end. It should look like this:
 
